@@ -3,4 +3,5 @@ Jurassic World: Revelations
 
 Create issues and suggestions here.
 
-Configs will be uploaded and maintained from here if you need them.
+Server Configs are in the Server branch.
+Client Configs are in the Client branch.
